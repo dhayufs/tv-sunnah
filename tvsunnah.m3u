@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,COBA
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1,ALQURAN AL KAREEM
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,SUNNAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1,RODJA TV
+https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1948763323_b1396000.m3u8
+#EXTINF:-1,ALIMAN TV
+https://tv.rodja.live/aliman/ngrp:HD_all/chunklist_w246851867_b1085440.m3u8
+#EXTINF:-1,AL IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+#EXTINF:-1,MGITV
+https://tv.rodja.live/tasik/mgitv/chunklist_w693793161.m3u8
+#EXTINF:-1,SURAUTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+#EXTINF:-1,WESALTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1,ARTVISITV
+https://streaming.yufid.com/hls/artvisi.m3u8
+#EXTINF:-1,RADIO KITA TV
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+#EXTINF:-1,IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1,INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1,ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1,SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:-1,AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1,MUADZ TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1,RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1,NAAJIYAH TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+#EXTINF:-1,HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1,AL IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+#EXTINF:-1,NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1,SALAM TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:-1,AL-QURAN TV
+https://h1.intechmedia.net/intech/ch14.m3u8
+#EXTINF:-1,SUNNAH TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1,BINA MADANI TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+#EXTINF:-1,BINBAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1,MEDIA SUNNAH TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1,AL FURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1,FIRANDA TV UFA24
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-1,AQSA TV
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w700783793.m3u8
+#EXTINF:-1,TARBIYAH SUNNAH (SERING OFF)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671696990/ei/_r2jY7LsCvejz7sPmceV8As/ip/2001%3A448a%3A2020%3A6b98%3A2cd8%3A80e9%3A403b%3A5f9a/id/rvjylcLgWRU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTG43YRWcjvGN00uC1nGWerPdSXtHTWNo4Pv41pSuvtkCIQCu8E76RtQooaI7zvmIQd5y7VtSEKsBVNox9IBq_dafcg%3D%3D/file/index.m3u8
+#EXTINF:-1,RIFQAN TV (SERING OFF)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671697333/ei/Vb-jY8OlCKXz4-EPtI6SwAs/ip/2001%3A448a%3A2020%3A6b98%3A2cd8%3A80e9%3A403b%3A5f9a/id/EImM37xOKCk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIz_T52vITGsLerGRjStUQJj-NBRF4FxtdTnDwlUVPKxAiB4KjEER2snFf31W1H3Kf_QJAOnB5SZRQnG98EctQ6F4A%3D%3D/file/index.m3u8
+#EXTINF:-1,MSTV (SERING OFF)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671697333/ei/Vb-jY8OlCKXz4-EPtI6SwAs/ip/2001%3A448a%3A2020%3A6b98%3A2cd8%3A80e9%3A403b%3A5f9a/id/EImM37xOKCk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIz_T52vITGsLerGRjStUQJj-NBRF4FxtdTnDwlUVPKxAiB4KjEER2snFf31W1H3Kf_QJAOnB5SZRQnG98EctQ6F4A%3D%3D/file/index.m3u8
+#EXTINF:-1,FATWATV (SERING OFF)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671697333/ei/Vb-jY8OlCKXz4-EPtI6SwAs/ip/2001%3A448a%3A2020%3A6b98%3A2cd8%3A80e9%3A403b%3A5f9a/id/EImM37xOKCk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIz_T52vITGsLerGRjStUQJj-NBRF4FxtdTnDwlUVPKxAiB4KjEER2snFf31W1H3Kf_QJAOnB5SZRQnG98EctQ6F4A%3D%3D/file/index.m3u8
+#EXTINF:-1,STA ACEH (SERING OFF)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671697333/ei/Vb-jY8OlCKXz4-EPtI6SwAs/ip/2001%3A448a%3A2020%3A6b98%3A2cd8%3A80e9%3A403b%3A5f9a/id/EImM37xOKCk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIz_T52vITGsLerGRjStUQJj-NBRF4FxtdTnDwlUVPKxAiB4KjEER2snFf31W1H3Kf_QJAOnB5SZRQnG98EctQ6F4A%3D%3D/file/index.m3u8
